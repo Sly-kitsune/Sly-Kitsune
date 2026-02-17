@@ -1,5 +1,5 @@
-#  About Me:
-Hey, I am Yashitha Mishra aka Rayana.<br><br>Quantitative engineer designing automated trading and analytics systems across crypto and equities.<br>Expert in Python strategy execution, market data pipelines, API integration, and risk controls.<br>Delivered production-ready bots, portfolio allocators, and backend services with measurable performance gains.
+#  Yashitha Mishra aka Rayana.
+Quantitative engineer designing automated trading and analytics systems across crypto and equities.<br>Expert in Python strategy execution, market data pipelines, API integration, and risk controls.<br>Delivered production-ready bots, portfolio allocators, and backend services with measurable performance gains.
 
 
 ## 🌐 Socials:
